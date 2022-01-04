@@ -1,6 +1,6 @@
 
 <h1 align="left">I'm SHIMUL</h1>
-<h3 align="left">A passionate frontend developer from <a href="https://privateyebd.com/">@PRIVATEYE</a></h3>
+<h3 align="left">A passionate backend developer from <a href="https://privateyebd.com/">@PRIVATEYE</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh1mu7&label=Profile%20views&color=0e75b6&style=flat" alt="sh1mu7" /> </p>
 
