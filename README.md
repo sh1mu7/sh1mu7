@@ -31,4 +31,3 @@
 
 <a align='left' >&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=sh1mu7&show_icons=true&locale=en" alt="sh1mu7" /></a>
 
-<a align='left' ><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=sh1mu7&" alt="sh1mu7" /></a>
