@@ -1,33 +1,15 @@
-# Mahmudul Hasan
+<h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mahmudulhasan/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&logo=twitter&logoColor=white)](https://twitter.com/your_twitter_handle)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/your_username)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sh1mu7&label=Profile%20views&color=0e75b6&style=flat" alt="sh1mu7" /> </p>
 
-Passionate Software Developer | Fintech | Bangladesh 🇧🇩
+- 🔭 I’m currently working on **Payment Gateway**
 
----
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/hasan-shimul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hasan-shimul" height="30" width="40" /></a>
+</p>
 
-## About Me
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
-I am a passionate software developer from Bangladesh with a knack for learning new things about software development. Currently, I am working as a Software Engineer in a Fintech company. I have a strong interest in developing high-quality software solutions that solve real-world problems.
-
-## Skills
-
-- Programming Languages: Java, Python, JavaScript
-- Web Development: HTML, CSS, React, Node.js
-- Database: MySQL, MongoDB
-- Version Control: Git, GitHub
-- Agile Methodologies: Scrum, Kanban
-
-## Projects
-
-- [Project 1](https://github.com/your_username/project_1): Short description of the project.
-- [Project 2](https://github.com/your_username/project_2): Short description of the project.
-- [Project 3](https://github.com/your_username/project_3): Short description of the project.
-
-## Education
-
-- Bachelor of Science in Computer Science, XYZ University
-
-Feel free to connect with me on LinkedIn or follow me on Twitter. Let's collaborate and learn together!
