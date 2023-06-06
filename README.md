@@ -1,15 +1,11 @@
-# Hello 👋, 
----
-# I'm Mahmudul Hasan 👋
-Passionate Software Developer | Fintech | Bangladesh 🇧🇩
 
-🔭 Currently working as a Software Engineer
+# Hello I'm Mahmudul Hasan 👋
+<br>
+Hi, I am Mahmudul Hasan, a software developer from Bangladesh with an insatiable appetite for learning new things and developing high-quality software solutions<br>🔭 I am currently working as a **Software Engineer** in the **fintech** industry.
 
-🌱 Always eager to learn and explore new things
-
-💡 Strong interest in developing high-quality software solutions
-
-📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/mahmudulhasan/)
-
-⚡ Fun fact: I love solving puzzles and playing chess!
-
+<br>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<br>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hasan-shimul) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sh1mu7) 
