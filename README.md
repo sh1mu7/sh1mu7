@@ -1,5 +1,4 @@
-# 💫 About Me:
-# Hello I'm Mahmudul Hasan 👋<br><br>---<br>Hi, I am Mahmudul Hasan, a software developer from Bangladesh with an insatiable appetite for learning new things and developing high-quality software solutions<br>🔭 I am currently working as a **Software Engineer** in the **fintech** industry.
+# Hello I'm Mahmudul Hasan 👋<br><br>Hi, I am Mahmudul Hasan, a software developer from Bangladesh with an insatiable appetite for learning new things and developing high-quality software solutions<br>🔭 I am currently working as a **Software Engineer** in the **fintech** industry.
 
 
 ## 🌐 Socials:
