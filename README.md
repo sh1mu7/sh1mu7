@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mahmudul Hasan</h1>
+<h1 align="left">Hi 👋, I'm Mahmudul Hasan</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sh1mu7&label=Profile%20views&color=0e75b6&style=flat" alt="sh1mu7" /> </p>
