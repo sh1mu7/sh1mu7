@@ -1,5 +1,5 @@
 # Hola mi amigo 👋<br>
-Hi, I am Mahmudul Hasan, a backend developer from Bangladesh with an insatiable appetite for learning new things and developing high-quality software solutions. I am currently working as a **Backend Developer** at a **fintech** company.
+Hi, I am Mahmudul Hasan, a backend developer from Bangladesh with an insatiable appetite for learning new things and developing high-quality software solutions. I am currently working as a **Backend Developer** at a German Based **Nursing** School.
 
 
 
